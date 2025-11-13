@@ -40,3 +40,4 @@ gravarNomes(arquivo); // Chama função para gravar nomes
 lerNomes(arquivo); // Chama função para ler nomes
 return 0;
 }
+//Conceitos: gravação de strings em arquivo, leitura com fgets, uso de funções para organizar o código.S
